@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+header{
+     text-align: center;
+     font-family: Tangerine;
+     font-size: 72px;
+     color: whitesmoke
+ }
+
+ body{
+     background-color: RGB(53,53,53);
+ }
+ /* centers first picture*/
+ .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+/* watch description turned white */
+ .watch_description{
+     color: whitesmoke
+ }
+
+ .headings{
+     color: whitesmoke
+ }
+
